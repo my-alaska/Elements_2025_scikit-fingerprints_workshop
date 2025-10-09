@@ -1,0 +1,10 @@
+[project]
+name = "elements-2025-scikit-fingerprints-workshop"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "jupyter",
+    "notebook>=7.4.7",
+    "scikit-fingerprints==1.17.0",
+]
