@@ -6,5 +6,6 @@ requires-python = ">=3.11"
 dependencies = [
     "jupyter",
     "notebook>=7.4.7",
+    "pandas>=2.3.3",
     "scikit-fingerprints==1.17.0",
 ]
