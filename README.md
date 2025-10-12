@@ -34,3 +34,6 @@ pip install -r requirements.txt
 
 Everything is in the Jupyter Notebook file `notebook.ipynb`. Run Jupyter Notebook
 (in VS Code, PyCharm, or terminal + web browser) and open it there.
+
+We also provide the `notebook_solution.ipynb` with exercise solutions. We recommend
+not to use it until you went through the empty one yourself first.
