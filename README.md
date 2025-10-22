@@ -8,7 +8,7 @@ If you are looking for expanded materials, see:
 
 ### Setup
 
-Preferred way is to use [uv dependency manager](https://docs.astral.sh/uv/).
+Recommended way is to use [uv dependency manager](https://docs.astral.sh/uv/).
 
 On Linux and macOS, run:
 ```commandline
