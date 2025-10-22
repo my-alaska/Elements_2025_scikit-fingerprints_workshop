@@ -3,7 +3,7 @@
 Short introductory workshop for molecular ML and chemoinformatics.
 
 If you are looking for expanded materials, see:
-- [our lonker workshop on molecular ML](https://github.com/j-adamczyk/molecular_ml_workshops)
+- [our longer workshop on molecular ML](https://github.com/j-adamczyk/molecular_ml_workshops)
 - [scikit-fingerprints tutorials](https://scikit-fingerprints.readthedocs.io/latest/examples.html)
 
 ### Setup
