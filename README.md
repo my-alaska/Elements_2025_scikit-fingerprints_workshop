@@ -3,12 +3,13 @@
 Short introductory workshop for molecular ML and chemoinformatics.
 
 If you are looking for expanded materials, see:
-- [our lonker workshop on molecular ML](https://github.com/j-adamczyk/molecular_ml_workshops)
+- [our longer workshop on molecular ML](https://github.com/j-adamczyk/molecular_ml_workshops)
 - [scikit-fingerprints tutorials](https://scikit-fingerprints.readthedocs.io/latest/examples.html)
 
 ### Setup
 
-Preferred way is to use [uv dependency manager](https://docs.astral.sh/uv/).
+Recommended way is to use [uv dependency manager](https://docs.astral.sh/uv/). To install it, follow the instructions
+in the documentation. On Linux and macOS, this is just one line with curl and bash.
 
 On Linux and macOS, run:
 ```commandline
